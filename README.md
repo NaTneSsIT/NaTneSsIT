@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="src/natnessit.svg" width="1200" alt="natnessit-official" />
+  <img src="natnessit.svg" width="1200" alt="natnessit-official" />
 </a>
 
 
